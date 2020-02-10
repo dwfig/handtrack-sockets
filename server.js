@@ -1,5 +1,5 @@
 let http = require('http');
-let PORT = 8000;
+let PORT = process.env.PORT || 8000;
 
 let express = require('express');
 let app = express();
