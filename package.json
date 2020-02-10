@@ -1,0 +1,14 @@
+{
+  "name": "cp-f20",
+  "version": "1.0.0",
+  "description": "Examples for Collective Play Spring 2020. NYU-ITP",
+  "author": {
+    "name": "Mimi Yin",
+    "email": "mimi.yin@nyu.edu"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "handtrackjs": "0.0.13",
+    "socket.io": "^2.3.0"
+  }
+}
