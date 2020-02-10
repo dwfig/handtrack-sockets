@@ -10,5 +10,9 @@
     "express": "^4.17.1",
     "handtrackjs": "0.0.13",
     "socket.io": "^2.3.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
   }
 }

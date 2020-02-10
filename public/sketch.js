@@ -45,7 +45,7 @@ function setup(){
     //   users[id] = {predictions: data}
     // }
     users[id] = {predictions: data}
-    console.log(users);
+    // console.log(users);
     // if(id in users){
     //   users[id].ppos = users[id].pos;
     //   users[id].pos = data;
